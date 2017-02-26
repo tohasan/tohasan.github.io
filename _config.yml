@@ -74,6 +74,8 @@ analytics:
   google:
     tracking_id          :
 
+# Repository
+repository: tohasan/tohasan.github.io
 
 # Site Author
 author:
@@ -105,8 +107,6 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-
-theme: minimal-mistakes-jekyll
 
 # Reading Files
 include:
